@@ -1,5 +1,6 @@
 # Address2Int
-This is a tool to transfer ipv4 address to int
+This is a tool to transfer ipv4 address to int.
+**The function returns `long` instead of `int32` because there is no official unsigned int in Scala.**
 
 # Usage
 
